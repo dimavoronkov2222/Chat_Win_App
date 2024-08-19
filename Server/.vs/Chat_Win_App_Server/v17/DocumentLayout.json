@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dimav\\source\\repos\\Chat_Win_App_Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2A053E-1D45-48D8-B092-1A1CDD7DE6F9}|Chat_Win_App_Server\\Chat_Win_App_Server.csproj|c:\\users\\dimav\\source\\repos\\chat_win_app_server\\chat_win_app_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F2A053E-1D45-48D8-B092-1A1CDD7DE6F9}|Chat_Win_App_Server\\Chat_Win_App_Server.csproj|solutionrelative:chat_win_app_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dimav\\source\\repos\\Chat_Win_App_Server\\Chat_Win_App_Server\\Program.cs",
+              "RelativeDocumentMoniker": "Chat_Win_App_Server\\Program.cs",
+              "ToolTip": "C:\\Users\\dimav\\source\\repos\\Chat_Win_App_Server\\Chat_Win_App_Server\\Program.cs",
+              "RelativeToolTip": "Chat_Win_App_Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T11:47:21.008Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
